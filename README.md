@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crazy10100&show_icons=true&locale=en" alt="crazy10100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazy10100&" alt="crazy10100" /></p>
+X hunter link 🔗 https://script-bdh.herokuapp.com/
