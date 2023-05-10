@@ -1,3 +1,12 @@
+[AndroRAT](https://github.com/The404Hacking/AndroRAT)
+
+[My profile](https://github.com/Crazy10100/crazy10100/edit/main/README.md)
+
+[xhunter link](https://script-bdh.herokuapp.com/)
+
+========
+========
+
 <h1 align="center">Hi 👋, I'm Crazy</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -116,4 +125,4 @@ ign="center">A passionate frontend developer from Bangladesh</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crazy10100&" alt="crazy10100" /></p>
 
-X hunter link 🔗 https://script-bdh.herokuapp.com/
+[X hunter link] (https://script-bdh.herokuapp.com/)
